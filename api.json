@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95",
+    "spider": "./spider.jar;md5;bed168f684a623828705bc62da3d441c",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -168,6 +168,22 @@
             "changeable": 1
         },
         {
+            "key": "花漾影视",
+            "name": "花漾影视",
+            "type": 3,
+            "api": "csp_Wexhuayang",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "佳佳影视",
+            "name": "佳佳影视",
+            "type": 3,
+            "api": "csp_Wexjiajia",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "秒播短剧",
             "name": "秒播短剧",
             "type": 3,
@@ -180,6 +196,14 @@
             "name": "极品短剧",
             "type": 3,
             "api": "csp_Wexduanjuvmp",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "河马短剧",
+            "name": "河马短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuhema",
             "searchable": 1,
             "changeable": 1
         },
@@ -840,6 +864,14 @@
             "ext": "./JS/喵次元.js"
         },
         {
+            "key": "次元城",
+            "name": "次元城",
+            "type": 3,
+            "api": "csp_Wexciyuancheng",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "喵物次元",
             "name": "喵物次元",
             "type": 3,
@@ -873,6 +905,14 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/怡萱动漫.js"
+        },
+        {
+            "key": "稀饭动漫",
+            "name": "稀饭动漫",
+            "type": 3,
+            "api": "csp_Wexxifan",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "暮暮动漫",
@@ -1078,7 +1118,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://www.wogg.link",
+                "site": "https://www.wogg.net",
                 "danmu": true
             },
             "jar": "./danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
