@@ -193,7 +193,7 @@
             "key": "星辰影视",
             "name": "星辰影视",
             "type": 3,
-            "api": "csp_WexXingcheen",
+            "api": "csp_WexXingchen",
             "searchable": 1,
             "changeable": 1
         },
@@ -264,29 +264,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "南坊追剧",
-            "name": "南坊追剧",
-            "type": 3,
-            "api": "csp_WebNF",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://www.nfzj.fun"
-        },
-        {
-            "key": "八八影视",
-            "name": "八八影视",
-            "type": 3,
-            "api": "csp_AppEight",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "siteUrl": "https://api.kpyun6.cn",
-                "deviceId": "b0d43379a488e74d"
-            }
         },
         {
             "key": "星芽短剧",
@@ -878,9 +855,8 @@
             "key": "次元城",
             "name": "次元城",
             "type": 3,
-            "api": "csp_Wexciyuancheng",
-            "searchable": 1,
-            "changeable": 1
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/次元城.js"
         },
         {
             "key": "喵物次元",
@@ -923,14 +899,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/花子动漫.js"
-        },
-        {
-            "key": "稀饭动漫",
-            "name": "稀饭动漫",
-            "type": 3,
-            "api": "csp_Wexxifan",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "暮暮动漫",
