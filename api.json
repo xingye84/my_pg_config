@@ -31,7 +31,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "韩小圈",
@@ -41,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "无忧短剧",
@@ -50,7 +50,7 @@
             "api": "csp_Duanj",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "南瓜影视",
@@ -909,6 +909,20 @@
             "ext": "./JS/花子动漫.js"
         },
         {
+            "key": "驴番动漫",
+            "name": "驴番动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/驴番动漫.js"
+        },
+        {
+            "key": "动漫巴士",
+            "name": "动漫巴士",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/动漫巴士.js"
+        },
+        {
             "key": "暮暮动漫",
             "name": "暮暮动漫",
             "type": 3,
@@ -917,16 +931,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.mutean.com"
-        },
-        {
-            "key": "动漫巴士",
-            "name": "动漫巴士",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./XBPQ/动漫巴士.json"
         },
         {
             "key": "樱花动漫",
@@ -946,7 +950,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "酷看弹幕",
@@ -959,7 +963,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "厂长弹幕",
@@ -972,7 +976,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "天天弹幕",
@@ -985,7 +989,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "三六零弹幕",
@@ -998,7 +1002,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "机器人弹幕",
@@ -1011,7 +1015,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "小苹果弹幕",
@@ -1024,7 +1028,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "一起看弹幕",
@@ -1037,7 +1041,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "JOJO弹幕",
@@ -1050,7 +1054,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "荐片弹幕",
@@ -1064,7 +1068,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "哔嘀弹幕",
@@ -1077,7 +1081,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "不太灵弹幕",
@@ -1089,7 +1093,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "玩偶弹幕",
@@ -1105,7 +1109,7 @@
                 "site": "https://www.wogg.net",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "搜索弹幕",
@@ -1119,7 +1123,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "云云弹幕",
@@ -1133,7 +1137,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "云搜弹幕",
@@ -1147,7 +1151,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "盘搜弹幕",
@@ -1161,7 +1165,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "易搜弹幕",
@@ -1176,7 +1180,7 @@
                 "danmu": true,
                 "cookie": "satoken=ba2ea3ca-bd57-41da-98dc-8d93b65eac3b"
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "云盘弹幕",
@@ -1190,7 +1194,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "荐片",
@@ -1369,7 +1373,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "阿里合集",
@@ -1386,7 +1390,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "玩偶哥哥",
@@ -1522,7 +1526,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "夸克土豆弹幕",
@@ -1538,7 +1542,7 @@
                 "site": "https://tudou.lvdoui.top",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "夸克多多弹幕",
@@ -1554,7 +1558,7 @@
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "夸克团长弹幕",
@@ -1569,7 +1573,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "夸克盘搜弹幕",
@@ -1583,7 +1587,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "夸克影搜弹幕",
@@ -1598,7 +1602,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "夸克趣盘搜弹幕",
@@ -1613,7 +1617,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "夸克爱盘搜弹幕",
@@ -1628,7 +1632,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
             "key": "push_agent",
@@ -1642,7 +1646,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+            "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         }
     ],
     "parses": [
