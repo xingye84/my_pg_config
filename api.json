@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",
+    "spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -41,11 +41,7 @@
             "type": 3,
             "api": "csp_Duanj",
             "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
+            "changeable": 0
         },
         {
             "key": "在线短剧",
@@ -53,11 +49,7 @@
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
+            "changeable": 0
         },
         {
             "key": "星芽短剧",
@@ -222,7 +214,7 @@
             "name": "大米｜APP",
             "type": 3,
             "api": "./JS/drpy2.min.js",
-            "ext": "./JS/APPV2.js?type=url&params=https://dmz8k4.wiki"
+            "ext": "./JS/APPV2.js?type=url&params=https://damifan.wiki"
         },
         {
             "key": "西瓜视频",
@@ -235,7 +227,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.433
+                "ratio": 1.597
             }
         },
         {
@@ -564,23 +556,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/碟调影视.js"
-        },
-        {
-            "key": "畅梦影视",
-            "name": "畅梦｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/畅梦影视.js"
-        },
-        {
-            "key": "子子影视",
-            "name": "子子｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/子子影视.json"
         },
         {
             "key": "奇趣影视",
@@ -1028,7 +1003,7 @@
             "filterable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.433
+                "ratio": 1.597
             },
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
@@ -2004,23 +1979,23 @@
     ],
     "lives": [
         {
-            "name": "直播1",
+            "name": "直播",
             "type": 0,
-            "url": "./live.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
+            "playerType": 2
         },
         {
-            "name": "直播2",
+            "name": "范明明",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1
+            "playerType": 2
         },
         {
-            "name": "直播3",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 1
+            "name": "肥羊",
+            "type": 3,
+            "api": "csp_Ysptp",
+            "ext": "./live.txt",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
     "flags": [
